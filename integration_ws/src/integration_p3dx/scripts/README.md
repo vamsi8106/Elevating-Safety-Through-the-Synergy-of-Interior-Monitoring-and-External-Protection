@@ -1,4 +1,4 @@
-# Driver_drowsiness_system_CNN
-This is a system which can detect the drowsiness of the driver using CNN - Python, OpenCV
+# Integration of All Sub Modules
+Here In this folder integration of drowsiness and speed control of robot is done
 
 
