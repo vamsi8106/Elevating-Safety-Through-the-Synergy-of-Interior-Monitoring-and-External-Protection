@@ -108,9 +108,9 @@ The Driver Safety Enhancement System offers the following benefits:
 3. [Rahul Madaan](https://github.com/Reiner009)
 
 ## Contact Information:
-For any queries, please feel free to reach out to our team:
-Email: m22rm003@iitj.ac.in
-Email: m22rm007@iitj.ac.in
-Email: m22rm008@iitj.ac.in
-Email: m22rm002@iitj.ac.in
+For any queries, please feel free to reach out to our team:  
+Email: m22rm003@iitj.ac.in  
+Email: m22rm007@iitj.ac.in  
+Email: m22rm008@iitj.ac.in  
+Email: m22rm002@iitj.ac.in  
 
