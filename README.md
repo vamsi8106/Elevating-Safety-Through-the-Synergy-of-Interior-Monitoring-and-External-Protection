@@ -94,7 +94,7 @@ The Driver Safety Enhancement System offers the following benefits:
 - Prevention of potential accidents and collisions.
 - Improved protection for both the driver and pedestrians.
 ## Results
-![Animated Image](InShot_20231105_234351057.gif)
+![Animated Image](Implementation_demo.gif)
 ## References
 1.[Real-Time Sleep Drowsiness Detection Paper](https://www.engpaper.com/download/real-time-sleep-drowsiness-detection-using-face-recognition.pdf)  
 2.[Pioneer Robotics Manual](https://www.inf.ufrgs.br/~prestes/Courses/Robotics/manual_pioneer.pdf)  
