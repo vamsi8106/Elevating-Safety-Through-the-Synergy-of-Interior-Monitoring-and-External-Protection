@@ -38,7 +38,7 @@ Our Driver Safety Enhancement System utilizes a combination of cameras and advan
      
 ![Robot Image](robot.png)
 
-## Requirements
+## System Specifications
 
 To use this project, you need the following dependencies:
 
