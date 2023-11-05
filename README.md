@@ -96,11 +96,11 @@ The Driver Safety Enhancement System offers the following benefits:
 ## Results
 
 ## References
-1.[Real-Time Sleep Drowsiness Detection Paper](https://www.engpaper.com/download/real-time-sleep-drowsiness-detection-using-face-recognition.pdf)
-2.[Pioneer Robotics Manual](https://www.inf.ufrgs.br/~prestes/Courses/Robotics/manual_pioneer.pdf)
-3.[Mask RCNN For depth Estimation](https://cs230.stanford.edu/projects_spring_2018/reports/8285407.pdf)
-4.[Intel RealSense GitHub Repository](https://github.com/IntelRealSense/librealsense.git)  
-5.[ROSARIA GitHub Repository](https://github.com/amor-ros-pkg/rosaria](https://github.com/amor-ros-pkg/rosaria)
+1.[Real-Time Sleep Drowsiness Detection Paper](https://www.engpaper.com/download/real-time-sleep-drowsiness-detection-using-face-recognition.pdf)  
+2.[Pioneer Robotics Manual](https://www.inf.ufrgs.br/~prestes/Courses/Robotics/manual_pioneer.pdf)  
+3.[Mask RCNN For depth Estimation](https://cs230.stanford.edu/projects_spring_2018/reports/8285407.pdf)  
+4.[Intel RealSense GitHub Repository](https://github.com/IntelRealSense/librealsense.git)    
+5.[ROSARIA GitHub Repository](https://github.com/amor-ros-pkg/rosaria)    
 ## Future Development
 We envision continuous improvement and refinement of this system by integrating more advanced technologies, such as machine learning and artificial intelligence, to enhance its performance and safety features further.
 
