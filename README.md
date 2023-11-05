@@ -101,9 +101,16 @@ The Driver Safety Enhancement System offers the following benefits:
 3.[Mask RCNN For depth Estimation](https://cs230.stanford.edu/projects_spring_2018/reports/8285407.pdf)  
 4.[Intel RealSense GitHub Repository](https://github.com/IntelRealSense/librealsense.git)    
 5.[ROSARIA GitHub Repository](https://github.com/amor-ros-pkg/rosaria)    
-## Future Development
-We envision continuous improvement and refinement of this system by integrating more advanced technologies, such as machine learning and artificial intelligence, to enhance its performance and safety features further.
 
-## Disclaimer
-Please note that this README file is a conceptual description of an idea and does not represent a fully functional product. Implementing such a system would require extensive research, development, and testing to ensure its effectiveness and reliability.
+## Contributors
+1. [Karan Bhakuni](https://github.com/karansspk)
+2. [Soham Padhye](https://github.com/sohampadhye007)
+3. [Rahul Madaan](https://github.com/Reiner009)
+
+## Contact Information:
+For any queries, please feel free to reach out to our team:
+Email: m22rm003@iitj.ac.in
+Email: m22rm007@iitj.ac.in
+Email: m22rm008@iitj.ac.in
+Email: m22rm002@iitj.ac.in
 
