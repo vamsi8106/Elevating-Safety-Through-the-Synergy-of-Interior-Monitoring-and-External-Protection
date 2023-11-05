@@ -35,6 +35,7 @@ Our Driver Safety Enhancement System utilizes a combination of cameras and advan
 
 4. Automatic Halt:
    - when Person's drowsiness is detected, and if an obstacle appears in the vehicle's path and the predefined safety threshold is breached, the system takes control and automatically halts the vehicle.
+     
 ![Robot Image](robot.png)
 
 ## Requirements
@@ -49,21 +50,42 @@ To use this project, you need the following dependencies:
 
 Make sure to install and configure these dependencies before running the project.
 ## Getting Started
-step:1 git clone this repository.
-step:2 cd Elevating-Safety-Through-the-Synergy-of-Interior-Monitoring-and-External-Protection/
-To run depth module
-step:3 cd depth_module/measure_object_distance/
-step:4 python3 measure_object_distance.py
-open New terminal
-step:3 cd Elevating-Safety-Through-the-Synergy-of-Interior-Monitoring-and-External-Protection/integration_ws/
-step:4 catkin_make
-step:5 source devel/setup.bash
-step:6 rosrun integration_p3dx detect_drowsiness_ros.py
-open New terminal
-For running Robot Prototype
-step:7 rosrun integration_p3dx integrate_p3dx.py
-For running Car Prototype
-step:7 rosrun integration_p3dx integrate_Car.py
+### Step 1: Clone this repository
+```
+git clone https://github.com/your-username/Elevating-Safety-Through-the-Synergy-of-Interior-Monitoring-and-External-Protection.git
+```
+
+### Step 2: Change directory to the project folder
+```
+cd Elevating-Safety-Through-the-Synergy-of-Interior-Monitoring-and-External-Protection/
+```
+### Step 3: To run the depth module, navigate to the depth module directory
+```
+cd depth_module/measure_object_distance/
+```
+### Step 4: Run the depth module
+```
+python3 measure_object_distance.py
+```
+### Step 5: In a new terminal, change directory to the ROS workspace and build the project
+```
+cd Elevating-Safety-Through-the-Synergy-of-Interior-Monitoring-and-External-Protection/integration_ws/
+catkin_make
+source devel/setup.bash
+```
+### Step 6: Run the Drowsiness Detection ROS node
+```
+rosrun integration_p3dx detect_drowsiness_ros.py
+```
+
+### Step 7: In a new terminal, run the Robot Prototype
+```
+rosrun integration_p3dx integrate_p3dx.py
+```
+### For running the Car Prototype, use the following command
+```
+rosrun integration_p3dx integrate_Car.py
+```
 
 ## Benefits
 The Driver Safety Enhancement System offers the following benefits:
